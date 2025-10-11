@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B29DE7-BC26-488E-9B85-7695042AD302}|..\\UsersDataAccessLayer\\UsersDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\usersdataaccesslayer\\usersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF17FF-210E-4A81-96C0-639A71268AC9}|..\\UsersBuisnessLayer\\UsersBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\usersbuisnesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:viewordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\loginpresentationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:loginpresentationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A6FE95-2B6D-417C-A8BB-F288AD827C38}|..\\OrdersDataAccessLayer\\OrdersDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\ordersdataaccesslayer\\ordersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\orderspresentaitonlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:orderspresentaitonlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83C39C7-ED82-44F9-BEFC-60881F9B4E41}|..\\OrdersBuisnessLayer\\OrdersBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\ordersbuisnesslayer\\clsorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\orderspresentaitonlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:orderspresentaitonlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\loginpresentationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:loginpresentationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|C:\\Users\\KimoStore\\source\\repos\\CafeProject\\itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77FEF716-09F2-4DD8-8DB2-EFD9B25AD29E}|CafeProject.csproj|solutionrelative:itemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8185139-F51D-4E57-B640-298790C66CB6}|..\\ItemsDataAccessLayer\\ItemsDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\itemsdataaccesslayer\\itemsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2860ABA7-B42A-4768-8DB2-8ECA7F062C0F}|..\\ItemsBuisnessLayer\\ItemsBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\itemsbuisnesslayer\\clsitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPresentationLayer.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\LoginPresentationLayer.cs",
+              "RelativeDocumentMoniker": "LoginPresentationLayer.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\LoginPresentationLayer.cs",
+              "RelativeToolTip": "LoginPresentationLayer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:36:23.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsOrders.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\OrdersBuisnessLayer\\clsOrders.cs",
+              "RelativeDocumentMoniker": "..\\OrdersBuisnessLayer\\clsOrders.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\OrdersBuisnessLayer\\clsOrders.cs",
+              "RelativeToolTip": "..\\OrdersBuisnessLayer\\clsOrders.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:07:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\OrdersDataAccessLayer\\OrdersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\OrdersDataAccessLayer\\OrdersDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\OrdersDataAccessLayer\\OrdersDataAccess.cs",
+              "RelativeToolTip": "..\\OrdersDataAccessLayer\\OrdersDataAccess.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwGMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:55:06.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersPresentaitonLayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\OrdersPresentaitonLayer.cs",
+              "RelativeDocumentMoniker": "OrdersPresentaitonLayer.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\OrdersPresentaitonLayer.cs [Design]",
+              "RelativeToolTip": "OrdersPresentaitonLayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:32:59.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\UsersDataAccessLayer\\UsersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\UsersDataAccessLayer\\UsersDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\UsersDataAccessLayer\\UsersDataAccess.cs",
+              "RelativeToolTip": "..\\UsersDataAccessLayer\\UsersDataAccess.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:03:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UsersForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\UsersForm.cs [Design]",
+              "RelativeToolTip": "UsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:45:51.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersPresentaitonLayer.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\OrdersPresentaitonLayer.cs",
+              "RelativeDocumentMoniker": "OrdersPresentaitonLayer.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\OrdersPresentaitonLayer.cs",
+              "RelativeToolTip": "OrdersPresentaitonLayer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIA4wHMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:03:29.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPresentationLayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\LoginPresentationLayer.cs",
+              "RelativeDocumentMoniker": "LoginPresentationLayer.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\LoginPresentationLayer.cs [Design]",
+              "RelativeToolTip": "LoginPresentationLayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:12:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemsForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ItemsForm.cs",
+              "RelativeDocumentMoniker": "ItemsForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ItemsForm.cs",
+              "RelativeToolTip": "ItemsForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:38:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ItemsForm.cs",
+              "RelativeDocumentMoniker": "ItemsForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ItemsForm.cs [Design]",
+              "RelativeToolTip": "ItemsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:30:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UsersForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\UsersForm.cs",
+              "RelativeToolTip": "UsersForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAtwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:53:14.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ItemsDataAccessLayer\\ItemsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ItemsDataAccessLayer\\ItemsDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ItemsDataAccessLayer\\ItemsDataAccess.cs",
+              "RelativeToolTip": "..\\ItemsDataAccessLayer\\ItemsDataAccess.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwKAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:49:04.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsItems.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ItemsBuisnessLayer\\clsItems.cs",
+              "RelativeDocumentMoniker": "..\\ItemsBuisnessLayer\\clsItems.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ItemsBuisnessLayer\\clsItems.cs",
+              "RelativeToolTip": "..\\ItemsBuisnessLayer\\clsItems.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAApwDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:47:48.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\UsersBuisnessLayer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\UsersBuisnessLayer\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\UsersBuisnessLayer\\clsUsers.cs",
+              "RelativeToolTip": "..\\UsersBuisnessLayer\\clsUsers.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:40:23.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewOrdersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ViewOrdersForm.cs",
+              "RelativeDocumentMoniker": "ViewOrdersForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ViewOrdersForm.cs [Design]",
+              "RelativeToolTip": "ViewOrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:47:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewOrdersForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ViewOrdersForm.cs",
+              "RelativeDocumentMoniker": "ViewOrdersForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CafeProject\\ViewOrdersForm.cs",
+              "RelativeToolTip": "ViewOrdersForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:49:43.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
